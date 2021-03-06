@@ -1,0 +1,7 @@
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\RecapDemo2\bin\Debug\RecapDemo2.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\RecapDemo2\bin\Debug\RecapDemo2.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\RecapDemo2\obj\Debug\RecapDemo2.csprojAssemblyReference.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\RecapDemo2\obj\Debug\RecapDemo2.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\RecapDemo2\obj\Debug\RecapDemo2.pdb

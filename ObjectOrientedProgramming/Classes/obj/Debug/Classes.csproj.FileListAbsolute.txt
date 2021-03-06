@@ -1,0 +1,7 @@
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Classes\bin\Debug\Classes.exe.config
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Classes\bin\Debug\Classes.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Classes\bin\Debug\Classes.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Classes\obj\Debug\Classes.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Classes\obj\Debug\Classes.pdb

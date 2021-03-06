@@ -1,0 +1,7 @@
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Interfaces\bin\Debug\Interfaces.exe.config
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Interfaces\bin\Debug\Interfaces.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Interfaces\bin\Debug\Interfaces.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Interfaces\obj\Debug\Interfaces.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Interfaces\obj\Debug\Interfaces.pdb

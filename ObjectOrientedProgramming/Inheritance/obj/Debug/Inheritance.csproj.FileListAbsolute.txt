@@ -1,0 +1,6 @@
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Inheritance\bin\Debug\Inheritance.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Inheritance\bin\Debug\Inheritance.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Inheritance\obj\Debug\Inheritance.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\ObjectOrientedProgramming\Inheritance\obj\Debug\Inheritance.pdb
