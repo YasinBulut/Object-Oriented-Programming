@@ -1,0 +1,7 @@
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\OOPDemo\OOPDemo\bin\Debug\OOPDemo.exe.config
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\OOPDemo\OOPDemo\bin\Debug\OOPDemo.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\OOPDemo\OOPDemo\bin\Debug\OOPDemo.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\OOPDemo\OOPDemo\obj\Debug\OOPDemo.csprojAssemblyReference.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\OOPDemo\OOPDemo\obj\Debug\OOPDemo.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\OOPDemo\OOPDemo\obj\Debug\OOPDemo.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\OOPDemo\OOPDemo\obj\Debug\OOPDemo.pdb
