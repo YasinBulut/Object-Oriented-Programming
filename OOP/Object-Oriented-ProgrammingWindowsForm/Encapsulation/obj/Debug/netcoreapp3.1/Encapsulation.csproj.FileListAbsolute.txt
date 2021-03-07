@@ -1,0 +1,15 @@
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.exe
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.deps.json
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.json
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.dev.json
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.dll
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.pdb
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csprojAssemblyReference.cache
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.Form1.resources
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csproj.GenerateResource.cache
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfoInputs.cache
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfo.cs
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.dll
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.pdb
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.genruntimeconfig.cache

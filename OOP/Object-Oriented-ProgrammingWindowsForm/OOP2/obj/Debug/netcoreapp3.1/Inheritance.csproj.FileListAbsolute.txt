@@ -1,0 +1,15 @@
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\bin\Debug\netcoreapp3.1\Inheritance.exe
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\bin\Debug\netcoreapp3.1\Inheritance.dll
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\bin\Debug\netcoreapp3.1\Inheritance.pdb
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\obj\Debug\netcoreapp3.1\Inheritance.csprojAssemblyReference.cache
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\obj\Debug\netcoreapp3.1\OOP2.Form1.resources
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\obj\Debug\netcoreapp3.1\Inheritance.csproj.GenerateResource.cache
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\obj\Debug\netcoreapp3.1\Inheritance.dll
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\obj\Debug\netcoreapp3.1\Inheritance.pdb
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\OOP\Object-Oriented-ProgrammingWindowsForm\OOP2\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache
