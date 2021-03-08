@@ -1,0 +1,7 @@
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\Interface-Abstract\InterfaceAndAbstract\CaffeDemo\bin\Debug\CaffeDemo.exe.config
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\Interface-Abstract\InterfaceAndAbstract\CaffeDemo\bin\Debug\CaffeDemo.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\Interface-Abstract\InterfaceAndAbstract\CaffeDemo\bin\Debug\CaffeDemo.pdb
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\Interface-Abstract\InterfaceAndAbstract\CaffeDemo\obj\Debug\CaffeDemo.csprojAssemblyReference.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\Interface-Abstract\InterfaceAndAbstract\CaffeDemo\obj\Debug\CaffeDemo.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\Interface-Abstract\InterfaceAndAbstract\CaffeDemo\obj\Debug\CaffeDemo.exe
+D:\Eğitimlerim\YOUTUBE - ENGİN DEMİROĞ\OOP\Interface-Abstract\InterfaceAndAbstract\CaffeDemo\obj\Debug\CaffeDemo.pdb
